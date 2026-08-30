@@ -23,11 +23,6 @@ App Screenshots :
  </table>
 
 
-This project is designed only for learning purpose with the guidance of Masai School mentors.
-
-This Project is made in Java with Android Studio IDE.
-
-
 Dependencies Used :
 - [Circular View](https://github.com/hdodenhof/CircleImageView) 
 - [Glide](https://github.com/bumptech/glide) 
@@ -36,10 +31,6 @@ Dependencies Used :
 - [Used Icons](https://www.flaticon.com)
 - All Random images available on Internet
 
-Team Members 
-- Prabin Kumar Sahu
-- Siddharth Kaushik
-- Sumit Kumar
 
 Maintained by:
 - Arjun Sharma

@@ -55,9 +55,9 @@ public class OffersActivity extends AppCompatActivity implements WishListClickLi
         Gson gson = new Gson();
         Type type = new TypeToken<ArrayList<OffersResponseModel>>() {
         }.getType();
-        Log.d("Prabin", "1 " + offersResponseModelArrayList.size());
+        Log.d("TAG", "1 " + offersResponseModelArrayList.size());
         offersResponseModelArrayList = gson.fromJson(json, type);
-        Log.d("Prabin", "2 " + offersResponseModelArrayList.size());
+        Log.d("TAG", "2 " + offersResponseModelArrayList.size());
         setRecyclerAdapter(offersResponseModelArrayList, this);
     }
 
